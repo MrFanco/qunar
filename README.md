@@ -1,6 +1,7 @@
-# learnvue
+# qunar-vue
 
-> A Vue.js project
+> A Vue.js project 
+参考慕课网视频学习
 
 ## Build Setup
 
